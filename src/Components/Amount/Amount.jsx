@@ -6,11 +6,17 @@ const Amount = ({ bill, tip, people }) => {
   const [overallTotal, setoverallTotal] = useState(32.79);
 
   useEffect(() => {
-    let total = (bill * tip) / 100;
+    if (bill > 0 && tip > 0 && people > 0){
+      let total = (bill * tip) / 100;
     setoverallTotal(total.toFixed(2));
 
     let perPerson = total / people;
     setTotalPerson(perPerson.toFixed(2));
+    }
+  else{
+    setTotalPerson(0);
+      setOverallTotal(0);
+    
   }, [bill, tip, people]);
 
   function handleReset() {
