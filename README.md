@@ -37,7 +37,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL:  (https://tip-calculator-react-kappa.vercel.app)
 - Live Site URL: (http://localhost:5173/?people=)
 
 ## My process
