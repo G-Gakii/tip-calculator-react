@@ -1,0 +1,32 @@
+.bill_container {
+  padding: 0.6rem;
+  border-radius: 5px;
+}
+.input_container {
+  position: relative;
+  width: 98%;
+  background-color: hsl(189, 41%, 97%);
+  border-radius: 5px;
+}
+.dollar-icon {
+  position: absolute;
+  left: 0.5rem;
+  bottom: 30%;
+  color: hsl(184, 14%, 56%);
+  opacity: 0.5;
+}
+.input_container input {
+  width: 100%;
+  text-align: end;
+  padding: 0.6rem 1rem;
+  background-color: hsl(189, 41%, 97%);
+  border: none;
+  outline: none;
+  color: hsl(183, 100%, 15%);
+  font-size: 1.5rem;
+  font-weight: bold;
+  border-radius: 5px;
+}
+input::placeholder {
+  color: hsl(183, 100%, 15%);
+}
