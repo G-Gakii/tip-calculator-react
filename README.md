@@ -9,12 +9,14 @@ This is a solution to the [Tip calculator app challenge on Frontend Mentor](http
   - [Overview](#overview)
     - [The challenge](#the-challenge)
     - [Screenshot](#screenshot)
+    - installation(#installation)
     - [Links](#links)
   - [My process](#my-process)
     - [Built with](#built-with)
     - [What I learned](#what-i-learned)
     - [Continued development](#continued-development)
   - [Author](#author)
+    
 
 
 
@@ -31,13 +33,25 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![desktop](https://github.com/G-Gakii/tip-calculator-react/blob/main/images/screenshoots/desktop.png)
+
+
+
+![mobile](https://github.com/G-Gakii/tip-calculator-react/blob/main/images/screenshoots/mobile.png)
+
+
+##installation
+
+-Clone the repository:
+-Navigate to the project directory: cd tipCalculator
+-Install dependencies:npm install
+-Start the development server::npm run dev
 
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://tip-calculator-react-kappa.vercel.app)
 - Live Site URL: (http://localhost:5173/?people=)
 
 ## My process
