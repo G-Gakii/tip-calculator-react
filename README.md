@@ -15,6 +15,8 @@ This is a solution to the [Tip calculator app challenge on Frontend Mentor](http
     - [What I learned](#what-i-learned)
     - [Continued development](#continued-development)
   - [Author](#author)
+    
+
 
 
 
@@ -31,7 +33,19 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![desktop](https://github.com/G-Gakii/tip-calculator-react/blob/main/images/screenshoots/desktop.png)
+
+
+
+![mobile](https://github.com/G-Gakii/tip-calculator-react/blob/main/images/screenshoots/mobile.png)
+
+
+##installation
+
+-Clone the repository:
+-Navigate to the project directory: cd tipCalculator
+-Install dependencies:npm install
+-Start the development server::npm run dev
 
 
 
